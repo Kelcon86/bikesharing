@@ -10,11 +10,11 @@ Here's my Tableau link https://public.tableau.com/app/profile/kelly.c3248/viz/Bi
 <img width="1045" alt="Checkout_Times_Users_Image" src="https://user-images.githubusercontent.com/60076980/161429751-9f53b1b9-72f7-41e8-821f-f52423f984fc.png">
 Using the tripduration broken down by hour and minute on the x axis and the count of bikes on the y axis, we can see the duration times for users in August 2019. The peak trip duration was just 5 minutes and the vast majority of trips were under 20 minutes.  
 
-
+\
 <img width="1028" alt="Checkout_Times_Gender_Image" src="https://user-images.githubusercontent.com/60076980/161429764-c8d877b3-f717-49fd-9906-051322a2790f.png">
 Using the same x and y axis as the previous graph, I added gender to the color and filter fields to see how gender affected the trip duration. While we could see that there were far more male users, the trip duration remained short (5-6 minutes) for all users.  
 
-
+\
 
 <img width="521" alt="Trips_Weekday_per_hour" src="https://user-images.githubusercontent.com/60076980/161443521-1c5f1913-bb38-4057-8822-0a1ead96da6b.png">
 The graph above shows the trips broken down by weekday and hour, which shows that 8 AM and 5-7 PM are the most popular times to rent a CitiBike. This is consistent with riders using the CitiBikes for commuting to and from work.
@@ -24,17 +24,17 @@ The graph above shows the trips broken down by weekday and hour, which shows tha
 Using a heatmap, I graphed the count of trips broken down by weekday, hour and gender. Amongst both genders 8 AM and 5-7 PM were the peak times for rides, which is consistent with the commuter theory mentioned previously. 
 
 
-
+\
 <img width="1064" alt="User_Trips_Gender_Weekday" src="https://user-images.githubusercontent.com/60076980/161429776-01778e05-77af-4edf-a557-404dd2e4f00c.png">
 The graph above shows the user trips broken down by gender and weekday. We can see on the heatmap that the majority of users are subscribers and that there are more male users than female or unknown. The most popular days for trips was Thursday and Friday for subscribers and Saturday and Sunday for customers. 
 
 
-
+\
 <img width="1010" alt="August_Peak_Hours" src="https://user-images.githubusercontent.com/60076980/161441336-91fe390b-8e2b-4f69-84cf-7e1cda07f6dc.png">
 Using a horizontal bar chart I graphed the peak hours for rides in August 2019, showing that the hours of 5-7 PM were the most popular time to ride. 
 
 
-
+\
 <img width="1058" alt="Top_Ending_Locations_Image" src="https://user-images.githubusercontent.com/60076980/161429786-9413bb62-7e2b-4237-96b1-68b30926794e.png">
 Using a symbal map we can see the top ending ride locations. By dropping the count of rides into the color and size filters, we are able to see that some of the most popular ending locations are along the Hudson River Greenway, a bike trail with water views. 
 
