@@ -15,7 +15,6 @@ Using the tripduration broken down by hour and minute on the x axis and the coun
 Using the same x and y axis as the previous graph, I added gender to the color and filter fields to see how gender affected the trip duration. While we could see that there were far more male users, the trip duration remained short (5-6 minutes) for all users.  
 
 \
-
 <img width="521" alt="Trips_Weekday_per_hour" src="https://user-images.githubusercontent.com/60076980/161443521-1c5f1913-bb38-4057-8822-0a1ead96da6b.png">
 The graph above shows the trips broken down by weekday and hour, which shows that 8 AM and 5-7 PM are the most popular times to rent a CitiBike. This is consistent with riders using the CitiBikes for commuting to and from work.
 
