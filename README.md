@@ -3,7 +3,7 @@
 ## Overview
 After using CitiBike to get around New York City during a trip, I created a presentation using Tableau to try to convince investors that a bike-sharing program in Des Moines is a solid business proposal. 
 
-Here's my Tableau link https://public.tableau.com/app/profile/kelly.c3248/viz/BikesharingCitiBikeNYCAugust2019/CitiBikeAugustinNY?publish=yes
+[link to dashboard] (https://public.tableau.com/app/profile/kelly.c3248/viz/BikesharingCitiBikeNYCAugust2019/CitiBikeAugustinNY?publish=yes)
 
 ## Results
 
